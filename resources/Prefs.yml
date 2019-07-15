@@ -1,0 +1,25 @@
+---
+MaxFactionNameLength: 20
+MaxPlayersPerFaction: 50
+OnlyLeadersAndOfficersCanInvite: true
+OfficersCanClaim: false
+PlotSize: 13
+PlayersNeededInFactionToClaimAPlot: 30
+PowerNeededToClaimAPlot: 1000
+PowerNeededToSetOrUpdateAHome: 250
+PowerGainedPerPlayerInFaction: 50
+PowerGainedPerKillingAnEnemy: 20
+PowerGainedPerAlly: 100
+AllyLimitPerFaction: 5
+TheDefaultPowerEveryFactionStartsWith: 0
+EnableOverClaim: true
+OverClaimCostsPower: false
+ClaimWorlds: []
+AllowChat: true
+AllowFactionPvp: false
+AllowAlliedPvp: true
+EnableMap: true
+ServerName: §6Clan
+prefix: §7[§6Clan§7]
+MaxMapDistance: 5000
+...
