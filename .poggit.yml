@@ -1,7 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/roxtigger2003/Clan
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/roxtigger2003/Clan/
 branches:
 - master
-projects: 
+projects:
   Clan:
-    path:””
+    path: ""
+    icon: ""
 ...
