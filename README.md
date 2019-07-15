@@ -7,7 +7,9 @@ Other minor changes
 ---------------------------------------------------------------------------
 
 Plugin này được edit lại bởi roxtigger2k3, nếu bạn có lấy thì hãy để lại credits của tác giả, người edit để tôn trọng họ. Xin cám ơn!
+has do: 
 - add prefix
+- support vietnamese language
 
 todo list:
 - make clan donate
