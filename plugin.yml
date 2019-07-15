@@ -1,0 +1,16 @@
+name: Clan
+author: Tethered_ Edited by Roxtigger2k3
+description: A Plugin For Easily Managing Clan
+version: 1.3.18
+main: Clan\ClanMain
+api: [3.0.0]
+softdepend: ["PureChat", "AntiSpamPro"]
+extensions: [sqlite3]
+commands:
+  clan:
+    description: Sử dụng /clan để biết chi tiết
+    permission: clan.command
+permissions:
+  clan.command:
+    default: true
+    description: "Cho phép quyền sử dụng tất cả về clan"
